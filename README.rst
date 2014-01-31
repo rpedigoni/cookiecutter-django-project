@@ -37,6 +37,11 @@ You're ready to go: ::
     make test
 
 
+A more detailed guide will be available on your project's ``README.rst`` file... or `here`_.
+
+.. _`here`: https://github.com/rpedigoni/cookiecutter-django-project/blob/master/%7B%7Bcookiecutter.repo_name%7D%7D/README.rst
+
+
 Creating Django apps
 --------------------
 
